@@ -2,3 +2,4 @@ git clone: import a repository
 git add <filename>: Keeps track of changes on the file
 git commit -m 'message': Save the changes with a name
 OR git commit -am 'message': combines git add and git commit
+git pull: to get the updated version of the file from github
