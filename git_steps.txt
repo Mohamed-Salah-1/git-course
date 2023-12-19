@@ -1,0 +1,10 @@
+git clone: import a repository
+git add <filename>: Keeps track of changes on the file
+git commit -m 'message': Save the changes with a name
+OR git commit -am 'message': combines git add and git commit
+git push origin <branch_name> : Upload the changes
+git pull: to get the updated version of the file from github
+git reset --hard 'commit hash'
+git branch: tell me which branch am on.
+git checkout -b new_branch_name: creates a branch
+git checkout branch_name: swith between branches
